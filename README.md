@@ -6,7 +6,7 @@ I'm an undergraduate student, studying cybersecurity at the University of Texas 
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/halfalivenot/Student-Management-System-Course-Project">Student Management System </a>| Designing, creating, and implementing a normalized relational database |
 | Cloud-Based SOC Homelab | Deploying and setting up a SOC homelab in the Cloud |
-| Honeynet | | 
+| Honeynet | Deploying a honeynet VM and collecting malicous traffic | 
 | Web-Application Firewall | |
 
 ## Certifications
