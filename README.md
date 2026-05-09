@@ -6,6 +6,7 @@ I'm an undergraduate student, studying cybersecurity as the University of Texas 
 |-----------------------------------------------|----------------------------|
 | Student Management System | Desiging, creating, and implementing a normalized relational database |
 | Cloud-Based SOC Homelab | Deploying and setting up a SOC homelab in the Cloud |
+| Web-Application Firewall | |
 
 ## Certifications
 <div>
