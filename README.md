@@ -2,7 +2,8 @@
 I'm an undergraduate student, studying cybersecurity as the University of Texas Rio Grande Valley. 
 
 ## Projects
-| Project Name | Description |
+| Project                                          | Description                |
+|-----------------------------------------------|----------------------------|
 | Student Management System | Desiging, creating, and implementing a normalized relational database |
 
 ## Certifications
