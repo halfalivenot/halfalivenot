@@ -1,5 +1,5 @@
 # Hello, I'm Selena Michelle Lopez-Rojas
-I'm an undergraduate student, studying cybersecurity at the University of Texas Rio Grande Valley. 
+I'm an aspiring cybersecurity analyst and an undergraduate student, studying Bachelor of Science in Cyber Security at the University of Texas Rio Grande Valley. 
 
 ## Projects
 | Project                                          | Description                |
