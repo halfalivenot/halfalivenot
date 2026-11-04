@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 I'm an undergraduate student at the University of Texas Rio Grande Valley, studying cybersecurity as my major.<br><br>I'm open to learning related to cybersecurity. However, I'm particularly personally interested in AI/LLM, digital forensics, OSINT, and incident response.<br><br>I'm currently working on a capstone project to create an AI-IDS model, which will be available open-source in a few months. Part of its dataset will be based off a honeypot run in the Cloud and available similar datasets to balance out the AI's dataset. <br>
 
 
