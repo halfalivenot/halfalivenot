@@ -8,7 +8,7 @@ I'm an undergraduate student at the University of Texas Rio Grande Valley, study
 | <a href="https://github.com/halfalivenot/Student-Management-System-Course-Project">Student Management System </a>| Designing, creating, and implementing a normalized relational database for a university department and its students |
 | <a href="https://github.com/halfalivenot/Cloud-Based-SOC-Homelab">Cloud-Based SOC Homelab </a>| Deploying and setting up a SOC environment in the Cloud to emulate attacker behavior and validate detection capbilities |
 | <a href="https://github.com/halfalivenot/Cloud-Honeypot">Cloud Honeypot </a> | Designing and deploying a Windows VM, ingesting logs, and constructing a live geo-attack map | 
-
+| <a href="https://github.com/halfalivenot/Digital-Forensics-Investigation-and-Response-Labs">Digital Forensics Investigation and Response Labs </a> | A collection of hands-on digital forensics, investigation, and incident response labs completed using Digital Forensics, Investigation, and Response, Fifth Edition by *Jones & Bartlett Learning*. | 
 # Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
