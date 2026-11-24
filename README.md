@@ -9,7 +9,7 @@ I'm an undergraduate student at the University of Texas Rio Grande Valley, study
 | <a href="https://github.com/halfalivenot/Cloud-Based-SOC-Homelab">Cloud-Based SOC Homelab </a>| Deploying and setting up a SOC environment in the Cloud to emulate attacker behavior and validate detection capbilities |
 | <a href="https://github.com/halfalivenot/Cloud-Honeypot">Cloud Honeypot </a> | Designing and deploying a Windows VM, ingesting logs, and constructing a live geo-attack map | 
 | <a href="https://github.com/halfalivenot/Digital-Forensics-Investigation-and-Response-Labs">Digital Forensics Investigation and Response Labs </a> | A collection of hands-on digital forensics, investigation, and incident response labs completed using Digital Forensics, Investigation, and Response, Fifth Edition by *Jones & Bartlett Learning*. |
-| <a href="">AI-IDS </a> | Capstone Project: An AI agent that monitors and detects malicious traffic with a dataset created in part from logs by a honeypot. |
+| <a href="https://github.com/halfalivenot/AI-IDS">AI-IDS </a> | Capstone Project: An AI agent that monitors and detects malicious traffic with a dataset created in part from logs by a honeypot. |
 
 # Certifications
 <div>
